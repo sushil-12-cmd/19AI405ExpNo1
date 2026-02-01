@@ -89,7 +89,8 @@ print("Environment State:", environment)
 <imgsrc> <img width="574" height="264" alt="543156640-7cd3df81-06d2-41fa-973f-0d7cc8698178" src="https://github.com/user-attachments/assets/727f543a-73a0-4b8e-a346-2199fc6c9f50" />
 </imgsrc>
 <h1> Result </h1>
-<p></p>
+<p>Thus, an AI agent is developed.
+</p>
 
 
 
